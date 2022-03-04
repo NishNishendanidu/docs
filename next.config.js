@@ -14,7 +14,7 @@ module.exports = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  eslint: {
+  eslint: { 
     ignoreDuringBuilds: true,
   },
   i18n: {
