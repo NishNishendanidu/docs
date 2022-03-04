@@ -6,13 +6,13 @@
 
     "logo": "https://https://ibb.co/ynS6My9.jpg",
 
-    "keywords":  ['en', 'cn', 'ja', 'es', 'pt', 'de'],
+    "keywords":  ['en', 'cn', 'ja', 'es', 'pt', 'de']
 
     "repository": "https://github.com/NishNishendanidu/docs.git",
 
     "website":   "https://t.me/phaticusthiccy",
 
-    "success_url": "https://dashboard.heroku.com/new?template=",
+    "success_url": "https://dashboard.heroku.com/new?template="
 
     "stack": "container",
 
