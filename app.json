@@ -20,7 +20,7 @@
 
     "KINGAMDA-X_SESSION": {
 
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours"
 
              "Kingamda-X Session.",
 
@@ -38,7 +38,7 @@
 
         "LANGUAGE": {
 
-            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru", බොට් ලැන්ගුවේජ් එක en යොදන්න
+            "description": "Bot language. Azerice => az, English => en,බොට් ලැන්ගුවේජ් එක en යොදන්න"
 
             "required": true,
 
